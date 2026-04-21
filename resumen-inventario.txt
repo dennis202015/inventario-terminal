@@ -1,0 +1,3 @@
+resumen del inventario
+productos totales: 4
+Stock actualizado correctamente
