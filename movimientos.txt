@@ -1,2 +1,4 @@
 inicio de control de inventerio.
 Stosck inical cargado.
+entrada: 3 monitores
+salida: 2 mause
